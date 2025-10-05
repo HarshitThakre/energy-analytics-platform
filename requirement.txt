@@ -1,0 +1,7 @@
+ 4. Create files (copy from the guide above)
+# - vite.config.js
+# - tailwind.config.js
+# - index.html
+# - src/App.jsx (the React app I created)
+# - src/main.jsx
+# - src/index.css
